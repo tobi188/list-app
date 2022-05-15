@@ -1,5 +1,5 @@
 <?php
 
-    echo "creating folder khanhtest1";
+    echo "hello khanh";
 
 ?> 
