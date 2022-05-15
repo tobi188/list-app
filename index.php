@@ -1,5 +1,5 @@
 <?php
 
-    echo "Jenkins test";
+    echo "creating folder khanhtest";
 
 ?> 
