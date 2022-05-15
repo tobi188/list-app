@@ -1,5 +1,5 @@
 <?php
 
-    echo "Jenkins 02:00";
+    echo "Jenkins test";
 
 ?> 
